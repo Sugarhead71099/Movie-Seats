@@ -1,4 +1,4 @@
-public class Example {
+public class MovieSeats {
 
     static int[][] seats = new int[3][6];
 	static String centerTextInConsole = "\t\t\t\t\t\t\t";
